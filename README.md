@@ -4,7 +4,7 @@
 
 This application is a backend example for an E-Commerce site.  This application primarily uses the promised-based Node.js ORM called Sequelize.  Combined with MySQL and Express.js, a user can successfully make CRUD API requests that interact with a database.  Having the ability to perform CRUD operations on a database with multiple methods is a crucial component of any modern full-stack application.  With ORM (Object-Relational Mapping), a developer can create complex database interactions in the code of their choosing, which adds another tool to their arsenal.  To use this application, please watch this quickstart guide:  
 
-![Screenshot_Insomnia](./assets/Insom_SS.PNG)
+![Screenshot_Insomnia](./assets/Insom_SS.png)
  
 
 ## Table of Contents 
