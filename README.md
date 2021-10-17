@@ -2,7 +2,7 @@
 
 ## Description 
 
-This application is a backend example for an E-Commerce site.  This application primarily uses the promised-based Node.js ORM called Sequelize.  Combined with MySQL and Express.js, a user can successfully make CRUD API requests that interact with a database.  Having the ability to perform CRUD operations on a database with multiple methods is a crucial component of any modern full-stack application.  With ORM (Object-Relational Mapping), a developer can create complex database interactions in the code of their choosing, which adds another tool to their arsenal.  To use this application, please watch this quickstart guide:  
+This application is a backend example for an E-Commerce site.  This application primarily uses the promised-based Node.js ORM called Sequelize.  Combined with MySQL and Express.js, a user can successfully make CRUD API requests that interact with a database.  Having the ability to perform CRUD operations on a database with multiple methods is a crucial component of any modern full-stack application.  With ORM (Object-Relational Mapping), a developer can create complex database interactions in the code of their choosing, which adds another tool to their arsenal.  To use this application, please watch this quickstart guide:  https://drive.google.com/file/d/1UVDMEN5NPxsuHSjZVfm8HJGoxwQGJIpQ/view?usp=sharing
 
 ![Screenshot_Insomnia](./assets/Insom_SS.png)
  
@@ -32,7 +32,7 @@ To install this application, you must have Node.js and MySQL installed on your c
 
 7.  After that, leave the MySQL shell by using the ```quit```command.  Go back to the root dir in terminal and run the command ```npm run seed```.  This will populate your database with tables and rows.
 
-If you have any questions, please watch the quickstart guide: 
+If you have any questions, please watch the quickstart guide: https://drive.google.com/file/d/1UVDMEN5NPxsuHSjZVfm8HJGoxwQGJIpQ/view?usp=sharing
 
 
 ## Usage 
@@ -45,7 +45,7 @@ To use this application, it is recommended to have an API client installed on yo
 
 4. Go to your API Client. You can now make API requests from "localhost:3001"! The endpoints that are used in this application are ```/api/categories```, ```/api/products```, and ```/api/tags```.  You can do all CRUD operations with each endpoint!
 
-If you have any questions, please watch the quickstart guide: 
+If you have any questions, please watch the quickstart guide: https://drive.google.com/file/d/1UVDMEN5NPxsuHSjZVfm8HJGoxwQGJIpQ/view?usp=sharing
 
 
 ## Credits  
